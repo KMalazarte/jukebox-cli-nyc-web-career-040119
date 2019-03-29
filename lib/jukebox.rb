@@ -50,7 +50,9 @@ def run(songs)
     case user_resp
     when "list"
       list(songs)
-    when ""
+    when "play"
+      play(songs)
+    
     
 end
   
