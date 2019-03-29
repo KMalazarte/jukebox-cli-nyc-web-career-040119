@@ -43,7 +43,9 @@ end
 def run(songs)
   help
   user_resp = ""
-    while user_resp puts "Please enter a command:"
+    while user_resp 
+    puts "Please enter a command:"
+    
     
 end
   
