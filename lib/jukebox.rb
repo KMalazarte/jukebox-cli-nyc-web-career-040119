@@ -47,6 +47,7 @@ def run(songs)
     puts "Please enter a command:"
     user_resp = gets.chomp
     
+    case user_resp
     
 end
   
