@@ -43,6 +43,6 @@ end
 def run 
   help
   user_resp = ""
-    while user_resp puts 
+    while user_resp puts "Please enter a command"
 end
   
