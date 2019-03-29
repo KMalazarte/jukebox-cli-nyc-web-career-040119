@@ -45,7 +45,8 @@ def run(songs)
   user_resp = ""
     while user_resp 
     puts "Please enter a command:"
-    user_resp = get.chomp
+    user_resp = gets.chomp
+    
     
 end
   
