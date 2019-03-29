@@ -49,7 +49,8 @@ def run(songs)
     
     case user_resp
     when "list"
-      
+      list(songs)
+    when ""
     
 end
   
