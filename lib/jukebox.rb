@@ -42,4 +42,6 @@ end
 
 def run 
   help
+  user_resp = ""
+  
     
