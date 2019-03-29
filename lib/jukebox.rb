@@ -48,15 +48,15 @@ def run(songs)
     user_resp = gets.chomp
     
     case user_resp
-    when "list"
+     when "list"
       list(songs)
-    when "play"
-      play(songs)
-    when "exit"
+     when "play"
+        play(songs)
+      when "exit"
       exit_jukebox
-    break
-  else
-    help 
+      break
+    else
+      help 
     
     
 end
