@@ -48,6 +48,8 @@ def run(songs)
     user_resp = gets.chomp
     
     case user_resp
+    when "list"
+      
     
 end
   
